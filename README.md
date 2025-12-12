@@ -1,6 +1,6 @@
 Meu Portfólio
 
-Olá! Eu sou Jonas, e este repositório é uma conjunto dos meus melhores projetos de código, com foco em Automação de Processos, Integração de Sistemas e Desenvolvimento de Ferramentas. 
+Olá! Eu sou Jonas, e este repositório é um conjunto dos meus melhores projetos de código, com foco em Automação de Processos, Integração de Sistemas e Desenvolvimento de Ferramentas. 
 
 Minha paixão é transformar tarefas manuais e repetitivas em fluxos de trabalho eficientes e automatizados, utilizando tecnologias como Python (Selenium, Pandas, Requests, win32com) e PHP.
 
